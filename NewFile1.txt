@@ -1,1 +1,3 @@
-Ths is additional file - NewFile1.txt
+Ths is additional creaed txt - NewFile1.txt
+New information added.
+End of file.
